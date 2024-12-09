@@ -1,0 +1,5 @@
+package segonapart
+
+object Time {
+
+}
